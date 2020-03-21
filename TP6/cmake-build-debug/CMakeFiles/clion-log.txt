@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP6"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/ThÃ©o/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP6/cmake-build-debug

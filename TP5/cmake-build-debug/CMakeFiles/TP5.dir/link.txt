@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TP5.dir/main.cpp.o CMakeFiles/TP5.dir/Rational.cpp.o CMakeFiles/TP5.dir/Trafficlight.cpp.o  -o TP5 

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Théo/Desktop/DM/Point.cpp
+Point.h
+/mnt/c/Users/Théo/Desktop/DM/Point.h
+
+/mnt/c/Users/Théo/Desktop/DM/Point.h
+cmath
+-
+iostream
+-
+cstdlib
+-
+
+/mnt/c/Users/Théo/Desktop/DM/TicTacToe.cpp
+TicTacToe.h
+/mnt/c/Users/Théo/Desktop/DM/TicTacToe.h
+
+/mnt/c/Users/Théo/Desktop/DM/TicTacToe.h
+iostream
+-
+
+/mnt/c/Users/Théo/Desktop/DM/main.cpp
+Point.h
+/mnt/c/Users/Théo/Desktop/DM/Point.h
+TicTacToe.h
+/mnt/c/Users/Théo/Desktop/DM/TicTacToe.h
+

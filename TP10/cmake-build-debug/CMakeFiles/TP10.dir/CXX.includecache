@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Agriculteur.h
+Observateur.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observateur.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/ObservablePoint.cpp
+ObservablePoint.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/ObservablePoint.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/ObservablePoint.h
+Subject.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Subject.h
+Point.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Point.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observateur.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observer.cpp
+Observer.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observer.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observer.h
+memory
+-
+ObservablePoint.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/ObservablePoint.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Point.h
+iostream
+-
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver1.cpp
+PointObserver1.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver1.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver1.h
+Observer.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observer.h
+iostream
+-
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver2.cpp
+PointObserver2.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver2.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver2.h
+Observer.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observer.h
+iostream
+-
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/StationMeteo.h
+Sujet.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Sujet.h
+Observateur.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observateur.h
+memory
+-
+iostream
+-
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Subject.cpp
+Subject.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Subject.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Subject.h
+memory
+-
+vector
+-
+Observer.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observer.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Sujet.h
+Observateur.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observateur.h
+vector
+-
+memory
+-
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/main.cpp
+iostream
+-
+memory
+-
+StationMeteo.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/StationMeteo.h
+Agriculteur.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Agriculteur.h
+ObservablePoint.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/ObservablePoint.h
+PointObserver1.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver1.h
+PointObserver2.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver2.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DM.dir/main.cpp.o CMakeFiles/DM.dir/Point.cpp.o CMakeFiles/DM.dir/TicTacToe.cpp.o  -o DM 

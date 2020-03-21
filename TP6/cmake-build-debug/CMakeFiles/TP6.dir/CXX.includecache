@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP6/Point.h
+iostream
+-
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP6/Vehicule.cpp
+Vehicule.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP6/Vehicule.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP6/Vehicule.h
+Point.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP6/Point.h
+cstring
+-
+iostream
+-
+cmath
+-
+

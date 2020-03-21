@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP2/Equation.h
+iostream
+-
+cmath
+-
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP2/Point.cpp
+Point.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP2/Point.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP2/Point.h
+iostream
+-
+cmath
+-
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP2/main.cpp
+iostream
+-
+cstdlib
+-
+Equation.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP2/Equation.h
+Point.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP2/Point.h
+tictactoe.h
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP2/tictactoe.h
+
+/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP2/tictactoe.h
+iostream
+-
+cstdlib
+-
+

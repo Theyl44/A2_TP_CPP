@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TP2.dir/main.cpp.o CMakeFiles/TP2.dir/Equation.cpp.o CMakeFiles/TP2.dir/Point.cpp.o CMakeFiles/TP2.dir/tictactoe.cpp.o  -o TP2 

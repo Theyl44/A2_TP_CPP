@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TP10"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TP10">
+				<Option output="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/cmake-build-debug/TP10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP10"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TP10/fast">
+				<Option output="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/cmake-build-debug/TP10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP10/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020\ CIR2/INFO/C++/TP10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Agriculteur.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Agriculteur.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/ObservablePoint.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/ObservablePoint.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observateur.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observateur.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observer.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Observer.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Point.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Point.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver1.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver1.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver2.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/PointObserver2.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/StationMeteo.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/StationMeteo.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Subject.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Subject.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Sujet.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/Sujet.h">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/main.cpp">
+			<Option target="TP10"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/C++/TP10/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
